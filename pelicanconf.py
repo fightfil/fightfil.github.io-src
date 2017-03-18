@@ -9,7 +9,7 @@ THEME = './themes/elegant'
 PATH = 'content'
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'md-metayaml']
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'md-metayaml', 'neighbors']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search', '404'))
 STATIC_PATHS = ['theme/images', 'images']
 
@@ -28,7 +28,9 @@ LANDING_PAGE_ABOUT = {'title':'An Engineering Student\'s Fiction Repository',
         
         <p>Below you can see some of my latest stories and essays, etc. On
         the top-bar, you can see links to summaries of my larger projects,
-        which are also pointed to on the sidebar.</p>'''
+        which are also pointed to on the sidebar.</p>
+        
+        <p>I mostly write spec-fic styled content, '''
                      }
 
 PROJECTS = [
@@ -46,7 +48,15 @@ PROJECTS = [
         'description':
             '''A story about a screenwriting student who goes to a summer-long
             program that is far more than it seems.'''
-        }
+        },
+    {
+        'name': 'Zephra Helmb',
+        'url': './pages/voltun.html',
+        'description':
+            '''A story I am writing for my creative writing seminar at
+             University. Set in the Voltun world, Zephra is gender-fluid and
+             a mage capable of minor shapeshifting.'''
+    }
 ]
 
 TAG_SAVE_AS = ''

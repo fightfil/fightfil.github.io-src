@@ -8,7 +8,9 @@ summary: |
    <p>This is the beginning of <em>The Penultimate Step</em>! Read, and
    enjoy! For more information about the story itself, beyond just the
    story as it is in the text, go to 
-   <a href="/pages/penultimate-step/index.html>the project landing page</a>.</p>
+   <a href="/pages/penultimate-step/index.html">the project landing page</a>.</p>
+   <p><a href="#commentary">More notes are at the bottom of the page.</a></p>
+
 tags:
   - prologue
   - college
@@ -18,7 +20,7 @@ tags:
   - track + field
 commentary: |
     <p>Welcome to <em>The Penultimate Step</em> a project I'm super excited about.
-    As you can see, its about Ellie (currently known by Ethan) Carver, a
+    As you can see, its about Ellie (currently known as Ethan) Carver, a
     transgender  student who just graduated high school.</p>
 
     <p>Please comment! I live for them. Like they're the entire reason I
@@ -59,7 +61,7 @@ drama.
 Everything must build to the climax, and at the height of the drama,
 only then can secrets be truly revealed, can the plot be resolved. The
 past four years have been building to this one moment---this is the
-climax of this chapter of our life.
+climax of this chapter of my life.
 
 "Remember, we all have to be ready to march at 11."
 
@@ -236,11 +238,11 @@ that trust. So we all have emerged, better than when we arrived.
 come out of their shells. That trust we have in each other can also be a
 barrier. As we've revealed ourselves to each other---even more than we
 even knew about who we are---there are some things that we've discovered
-about ourselves that might not match up with the personas we've
+about ourselves that might not match up with the personae we've
 cultivated here.
 
 "But---you might interject---aren't we being true to ourselves here, how
-can we present a persona, aren't personas fake personalities? We *are*
+can we present a persona, aren't personae fake personalities? We *are*
 being far more truthful in our personalties here. We *do* show aspects
 of our personality that we've kept suppressed at home, at our sending
 schools, but even then, there are aspects that we've kept hidden.
@@ -280,7 +282,7 @@ sophomore year, I had begun to understand one of the things that made it
 so difficult for me to really integrate into a community---since I had a
 so much difficulty accepting myself.
 
-"I'd realised that I had been born with a body that didn't reflect the
+"I'd realized that I had been born with a body that didn't reflect the
 way I was wired. My body was being flooded with hormones that affected
 my life in ways that felt totally foreign to me. I was seeing others,
 you girls, getting the changes that would have felt at home on me, while
@@ -314,7 +316,7 @@ enter, we should be defined not by who we are, but by what we help
 others become."
 
 Graduation Playlist
-===================
+-------------------
 
 So for each chapter, I will post a playlist of all the music that Carver
 is listening to. It's an important part of her character, and helps me
@@ -328,8 +330,8 @@ of. Because she doesn't like listen to a huge variety of songs
 constantly---she tends to focus on a single album, or even a single
 song, and listen to it until she hates it.
 
-During sophomore year of high school, she was at her worst. She listened to a total of
-17 songs all year. But after mentioning it off-hand at the summer camp
+During sophomore year of high school, she was at her worst. She listened to a 
+total of 17 songs all year. But after mentioning it off-hand at the summer camp
 she was attending, her friends tend to send her albums and mixtapes in
 order to try to vary it up for her (though all those people know Carver
 with male pronouns).
@@ -339,14 +341,18 @@ that between updates so I don't need to make you listen to that during
 them. So here's the playlist:
 
 Number  |     Song Title        | Artist
---------|-----------------------|-------------------
-     1  |       *Raise Hell*    |  Dorothy
-     2  |      *Hardly Hardly*  |  Wallis Bird
-     3  |     *You're A Runner* |  Me And My Drummer
-     4  |       *Beautifully*   |  Jay Brannan
-     5  |   *Sky in Your Bones* |  Tutile
-     6  | *Unfinished Memories* | Eowyn
-     7  |         *Sirens*      |  Fleurie
+-------:|:---------------------:|:------------------
+     1  |      *Raise Hell*     |  Dorothy
+     2  |   *Hardly Hardly*[^1] |  Wallis Bird
+     3  |    *You're A Runner*  |  Me And My Drummer
+     4  |      *Beautifully*    |  Jay Brannan
+     5  |  *Sky in Your Bones*  |  Tutile
+     6  | *Unfinished Memories* |  Eowyn
+     7  |        *Sirens*       |  Fleurie
+    
+[^1]: This song is no longer available on Spotify, but was when I was
+      setting up the the playlists, etc. So your mileage may vary in
+      trying to listen to it.
 
 And that's it. This was Carver's playlist for finals week, the buildup
 to graduation, and packing up after graduating.

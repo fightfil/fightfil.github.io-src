@@ -16,6 +16,7 @@ summary: |
   <p>With freshman orientation out of the way, how will Ellie and her
   suite-mates handle her identity? Who else knows, and what will she 
   do going forward?</p>
+  <p><a href="#commentary">More notes are at the bottom of the page.</a></p>
 status: draft
 ---
 
@@ -84,3 +85,97 @@ the term starts?"
 
 "Ooh, I like that one," says Diane.
 
+"Hey, can someone spot me an advil," I say, a propos of nothing---besides
+a lingering pain shooting up my calf. "I forgot to get some at the bookstore
+today and my leg is *killing* me."
+
+"Ooh," replies Jen. "I think I might have a bottle of ibuprofen in my bag.
+I tend to get random headaches, so I carry around a bunch most of the time."
+
+She gets up and skips to her room. Emerging from the doorway after a few 
+moments, she hands me a bottle of the tablets. 
+
+As I pop one, she asks, "So how bad is it anyways?"
+
+"During practice today, the trainer was thinking I'd be out for about ten days,
+which is about typical for a muscle strain. The last one I got kept me sidelined
+for just about a week, so we'll see."
+
+"You athletes..." Theo scowls at me and Diane. "All injuries are just, I'll be
+resting for a couple days, then I'll be in tip-top shape, raring to get hurt
+again."
+
+I look at Diane, myself. "He's not *entirely* wrong."
+
+"You guys don't even let yourselves acknowledge that getting hurt, well *hurts*.
+It's like you people just try and turn it into no big deal, even when any
+normal person would be lying in bed, lamenting how their life is over, if they
+were in your shoes right now, Carver."
+
+"That's because---" He cuts me off before I realize that I have no argument
+for that.
+
+"You athletes are just masochists, plain and simple."
+
+Diane snickers. "Nah, that's no the side of the dynamic that gets me freaky."
+
+None of us can keep it in. Even quiet Jen is giggling in the corner.
+
+"And, on that note," she says, "I'm going to bed!"
+
+We scatter, taking turns at the bathroom to clean up and prepare for our first
+classes in the morning.
+
+* * *
+
+The blaring of the alarm makes me jump out of bed---much to my calf's protest.
+I throw a light shirt on over my bare torso, grab my towel and toiletry bag,
+and limp out of my room to the bathroom.
+
+I thank the stars for my luck that no one else is using it, and close the door 
+behind me. I turn on the water to the shower, and start brushing my teeth. The
+stream is scalding when I finish, so I turn the heat down a tiny bit before
+stepping in to rinse off.
+
+Wrapped in my towel, I exit the bathroom, greeted by the flushed face of Diane,
+still breathing heavily from a morning run. Her shoulders, dripping with sweat,
+really stand out when she's wearing only a sports bra, the bulging muscles
+quivering with fatigue. "Shower's all yours," I manage, barely pulling my eyes
+away from her.
+
+I slip back into my room, extra-conscious of my bare chest. Shaking out my hair,
+I dry off any last vestiges of dampness before throwing on a golf shirt and 
+jeans. Backpack slung over one shoulder, I grab my crutches and head out into
+the hall.
+
+My phone buzzes, alerting me to the time, 8:45. So I start ambling across campus
+to my first class of my college career: Intro Materials Science.
+
+It's really hard to blend in amongst the crowd when you are relying on the
+support of a pair crutches. The hundreds of students headed to class step aside,
+parting the seas for my limping gait.
+
+The whispers aren't present. *Yet.*
+
+My class is on the second floor of Costner Hall. I lean on my crutches in front
+of the elevator, 
+
+Chapter Playlist
+----------------
+
+During the first couple of weeks of classes, Ellie's playlist has an almost
+epic feel. Whether or not that had any bearing on her attitude during the
+chapter is for you to decide. Tee-hee.
+
+It was made by her High School friend, Kelsie.
+
+ Number |    Song Title     | Artist
+-------:|:-----------------:|:-------
+ 1      |  *Never Enough*   | The Hunna
+ 2      | *Jar of Hearts*   | Christina Perri
+ 3      |  *Take Me Down*   | The Pretty Reckless
+ 4      |   *White Flag*    | The Romanovs
+ 5      |     *Sarah*       | Kate Miller-Heidke
+ 6      |    *Make Me*      | Kristen Agee
+ 7      | *Blood Red Roses* | C21fx
+ 8      |   *The Wolf*      | Phildel

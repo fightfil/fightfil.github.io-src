@@ -15,6 +15,12 @@ tags:
   - slurs
   - raging assholes
   - being outed
+summary: |
+    Orientation started so well, so let's see if that trend continues.
+    Spoiler Alert: Not so much. The second day of orientation brings on
+    the first meeting of the High Jump squad of the track and field team.
+    Let's see how they like Ellie.
+    <p><a href="#commentary">More notes are at the bottom of the page.</a></p>
 commentary: |
     <p>So that was a fun time...</p>
     <p>I mean, now we know why this is an actual story and not just a diary
@@ -376,7 +382,7 @@ Halestorm starts the night off, a staple in Carver's playlists since
 high school.
 
 | Number | Song Title            | Artist
-|--------|-----------------------|--------------
+|-------:|:---------------------:|:-------------
 | 1      | *I Miss the Misery*   | Halestorm
 | 2      | *Set Me on Fire*      | Flyleaf
 | 3      | *Let Me Live My Life* | Saint Asonia
@@ -398,28 +404,28 @@ clubs of all sorts.
 The team:
 
 -   Distance/XC---Coach: James Little (24)
-    -   Captain: Sr Lauren McBride
-    -   Star: Fr Carmen Vane
-    -   Star: So Mark Curry
+    -   Captain: Sr. Lauren McBride
+    -   Star: Fr. Carmen Vane
+    -   Star: So. Mark Curry
 -   Sprints/Pole Vault---Coach: Yvonne Kass (3 Vault, 11 Sprint)
-    -   Captain: Sr Sergio Blair (Vault)
-    -   Star: Ju Kim Collins (Sprints)
+    -   Captain: Sr. Sergio Blair (Vault)
+    -   Star: Ju. Kim Collins (Sprints)
 -   Javelin/Multis---Coach: Cassie Stevenson (2)
-    -   Captain: Ju Alma Chandler (Multis)
-    -   So Walter Estrada (Javelin)
+    -   Captain: Ju. Alma Chandler (Multis)
+    -   So. Walter Estrada (Javelin)
 -   Jumps---Coach: Richard Spear (9)
-    -   Captain: Sr Michaela Cross
-    -   Sr Darnell Brown
-    -   Ju Fernando Fitzgerald
-    -   Ju Nicole Farmer
-    -   So Andrew Boone
-    -   So Nadine Carlson
-    -   Fr E. Carver
-    -   Fr Emma Giles
-    -   Fr Addison James
+    -   Captain: Sr. Michaela Cross
+    -   Sr. Darnell Brown
+    -   Ju. Fernando Fitzgerald
+    -   Ju. Nicole Farmer
+    -   So. Andrew Boone
+    -   So. Nadine Carlson
+    -   Fr. E. Carver
+    -   Fr. Emma Giles
+    -   Fr. Addison James
 -   Throws---Coach: Lyles Starr (11)
-    -   Captain: Ju Susie Dean
-    -   Star: Sr Blake Jimenez
-    -   Star: Fr Desiree Hudson
-    -   Star: So Jack Hughes
+    -   Captain: Ju. Susie Dean
+    -   Star: Sr. Blake Jimenez
+    -   Star: Fr. Desiree Hudson
+    -   Star: So. Jack Hughes
 

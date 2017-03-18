@@ -10,15 +10,19 @@ tags:
   - trans
   - high jump
   - track + field
+summary: |
+  High School gives way to college, pushing our young protagonist into
+  a new world that she isn't ready for. How will she settle in?
+  <p><a href="#commentary">More notes are at the bottom of the page.</a></p>
 commentary: |
-  Where the prologue introduced you to only one important character,
+  <p>Where the prologue introduced you to only one important character,
   Ellie this first chapter brings in a totally new collection of people.
   I'm interested to know your reaction to them, so please leave a comment
-  below.
+  below.</p>
   
-  Keep on keeping on.
+  <p>Keep on keeping on.</p>
   
-  -Fightfil
+  <p>-Fightfil</p>
 ---
 
 
@@ -256,7 +260,7 @@ Jen's lips twitch, the faintest hint of a smile gracing her face. *ODE's? I*
 alone."
 
 "Well besides ODE's," I start, "I'm taking German I, Early Speculative Fiction,
-and Stress Analysis."
+and Intro Materials Science."
 
 "There's only the one intro German class, right?" Asks Theo---when I nod, he
 says, "So we'll be together for that. I'm in Introductory Programming, Calculus
@@ -291,14 +295,14 @@ instruments, so if you ever wanna jam..."
 
 Diane and I speak almost at once: "Basketball." "Track."
 
-Jen says, "I'll probably destroy my free time with theatre!"
+Jen says, "I'll probably destroy my free time with theater!"
 
 My brain immediately envisions the girl whispering her way through the "O, what
-a noble mind" soliloquy. I banish the unfair imagery and ask, "Musical theatre,
+a noble mind" soliloquy. I banish the unfair imagery and ask, "Musical theater,
 or plays, or do you do tech?"
 
-"I love me some musical theatre. But I also do a lot of stage design and
-building for tech."
+"I love me some musical theater. But I also do a lot of stage design, makeup, and
+set-building for tech."
 
 "What about you, Kyle."
 
@@ -367,7 +371,8 @@ first place."
 
 Getting up, we bring our plates to the trash and head our separate ways.
 
-# Freshman Orientation Playlist
+Freshman Orientation Playlist
+-----------------------------
 
 Carver's playlist for Freshman Orientation is as follows. One of their friends
 from high school, Kels, sent them the Flyleaf related songs (*Something Better*,

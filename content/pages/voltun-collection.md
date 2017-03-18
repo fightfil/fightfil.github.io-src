@@ -21,8 +21,11 @@ over the next 3 years.
 
 By the middle of Sophomore year at university, the rewrite hit the 45000 word mark,
 but I really had no Idea of where I was going to go from there, so I put it on the 
-backburner and started trying other things.
+back-burner and started trying other things.
 
 # Zephra Helmb
 
+The Zephra Helmb's exploits are something that that I started working on for my
+college humanities capstone course. Zephra is a gender-fluid mage in the fantasy
+version of the world of Voltun.
 
