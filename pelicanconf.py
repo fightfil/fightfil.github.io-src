@@ -5,10 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = u'Fightfil'
 SITENAME = u"Fightfil's Story Collection"
 SITEURL = 'http://localhost:8000'
-THEME = './themes/elegant'
+THEME = './theme/elegant'
 PATH = 'content'
 
-PLUGIN_PATHS = ['pelican-plugins']
+PLUGIN_PATHS = ['pelican-plugs', 'pelican-plugins']
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'md-metayaml', 'neighbors']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search', '404'))
 STATIC_PATHS = ['theme/images', 'images']
