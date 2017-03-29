@@ -11,7 +11,14 @@ tags:
   - high jump
   - track + field
   - coming out
-commentary: <p>The world</p>
+commentary: |
+  <p>The world is a dark place when you are terrified that it is full of
+  people who want to harm you. Ellie is definitely in that mode right now.
+  For her, getting outed only proved to her that her world hates trans people
+  and that she is in danger just by merely existing.</p>
+  
+  She does feel safe in her suite with Diane, Jenna, Theo, and Kyle, which
+  makes</p>
 summary: |
   <p>With freshman orientation out of the way, how will Ellie and her
   suite-mates handle her identity? Who else knows, and what will she 
@@ -158,7 +165,40 @@ parting the seas for my limping gait.
 The whispers aren't present. *Yet.*
 
 My class is on the second floor of Costner Hall. I lean on my crutches in front
-of the elevator, 
+of the elevator, waiting with a number of other students for the doors to open.
+They see me, or at least my crutches, and make room for me, indicating that I'll
+be let on first---or at least I hope as much.
+
+My hopes are confirmed when the the elevator doors open with a ding a few 
+moments later, allowing entry. I step in, followed by several other students,
+until we are all packed in the small area like so many sardines. The next ding
+opens the door on the second floor, where I step into a hallway which appears
+to have the singular purpose of opening up into a 200-seat lecture hall, which,
+conveniently enough, is the precise room I need to be planted in for the next
+90 minutes.
+
+I amble down to the 6th row, still in the front quarter of the hall and take a
+seat on the right side of the main body of seats, despite the two wings on
+either side being much emptier.
+
+I put the crutches in the seat to my right, leaving only one seat between my
+crutches and the aisle. As I'm getting situated, a young woman with thick,
+rimmed, glasses tosses a gym bag on the table in front of the lecture hall and
+assumes her position at the lectern.
+
+"Hello everyone, I'm Erica Entwistle, and I'm teaching Intro to Materials 
+Science this term." She pauses, then adds, "So if you are in this classroom and
+are *not* planning on taking this class, while you are more than welcome to
+stay, I'm sure you have things you would rather do than have me talk to you
+about the workings of different metals and plastics during the next ninety 
+minutes.
+
+"Alternatively, if you are not currently signed up for the course, but want to
+be, come to me right after class with your add/drop slip, and I can sign it for
+you."
+
+Like one person, looking bewildered and overwhelmed, hastily shoves his books
+back into his bag before rushing out of the lecture hall, red-faced.
 
 Chapter Playlist
 ----------------

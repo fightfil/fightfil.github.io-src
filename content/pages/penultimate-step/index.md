@@ -13,7 +13,8 @@ Go Thunderbirds!
 
 Read the first chapter [here]({filename}/Penultimate-Step/01_prolouge.md).
 
-If you're returning to the site, go [here for the latest chapter](#placeholder).
+If you're returning to the site, go 
+[here to find the list of published chapters](/categories.html#the-penultimate-step-ref).
 
 # [Characters](./characters/)
 
@@ -28,7 +29,7 @@ you'd have met so far as you read along.
     over again as a track and field athlete at the 
     [ISTU](#the-igor-sikorski-technical-university).
 
-    In high school, (known as Ethan), Ellie was a track and field athelete,
+    In high school, (known as Ethan), Ellie was a track and field athlete,
     primarily participating in the high jump. After clearing 5'10" partway
     through sophomore, Ellie---then Ethan---began to attract some mild attention
     from mid-teir Division I schools. However, during the first meet
@@ -45,10 +46,10 @@ you'd have met so far as you read along.
     sophomore year.
 
     This event triggered something in her, as she realized how close to 
-    becomeing *that* kid she was. Already aware of her bisexual orientation,
+    becoming *that* kid she was. Already aware of her bisexual orientation,
     she wasn't afraid of it, like many people could be with their sexualities,
     but she also knew that something else was up. She refused to accept that
-    her depression was just born from her inadequecies, that the only thing
+    her depression was just born from her inadequacies, that the only thing
     that differed her from the happy 11^th^ graders around her was that they
     were neurotypical. So she spent much of the summer being all introspective
     and shit.
@@ -58,7 +59,7 @@ you'd have met so far as you read along.
     of her designated gender, she determined that she was uncomfortable with the
     changes to her body that came with male puberty. Armed with this newfound
     knowledge, she did the only reasonable thing. She discovered it,
-    internalised it, and buried it, as deep within herself as she could bury
+    internalized it, and buried it, as deep within herself as she could bury
     something so shameful (in her perspective).
 
     Senior year came along and she made friends with a couple sophomores who
@@ -80,13 +81,13 @@ you'd have met so far as you read along.
 [Howard Lyons]({filename}./characters/hlyons.md)
 
 :   Senior, sprinter, silly. Howard is the RA for Ellie's floor, and was one
-    of the guides during Ellie's recruitment as an athelete before her freshman
+    of the guides during Ellie's recruitment as an athlete before her freshman
 	year.
 
 [Emma Giles]({filename}./characters/egiles.md)
 
 :   A fellow first-year on the jump-squad in track, Emma shares Ellie's feeling
-    of being an outclassed fish out of water on the team, consistenly jumping
+    of being an outclassed fish out of water on the team, consistently jumping
     the worst of the girls on the team.
     
     But she and Ellie hit it off, and hang around a bit while not studying or
@@ -107,7 +108,7 @@ you'd have met so far as you read along.
     from Glastonbury, CT. 
     
     Over the years, Natalie has dated a string of the most desirable men
-    avalaible. In high school, she dated the captains of the Football team, the
+    available. In high school, she dated the captains of the Football team, the
     Basketball team, and the Crew team (which was really the most popular sport 
     at Glastonbury High).
     
@@ -124,7 +125,7 @@ you'd have met so far as you read along.
      while Natalie might be seen at every single party in one night, Diane might
      not leave her room the whole weekend.
      
-     On the other hand, she is far more athletic than her ocasionally clutzy
+     On the other hand, she is far more athletic than her occasionally clutzy
      sister. She was recruited for the school's basketball team, and figures to 
      be their star. She turned down a full scholarship offer from a Division I
      school in order to come here and be with her sister---who, despite their
@@ -144,8 +145,8 @@ you'd have met so far as you read along.
 # Settings
 
 Being a project set in a mostly truthful mirror of the real world, there aren't
-as many entirely new places and things to review, but I do have to work harder to
-fit them into the story's world.
+as many entirely new places and things to review, but I do have to work harder
+to fit them into the story's world.
 
 ## The Igor Sikorski Technical University
 

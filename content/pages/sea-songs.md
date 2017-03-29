@@ -5,7 +5,7 @@ slug: sea-songs/index.html
 
 *Sea Songs* is about an idyllic summer camp on a Maine island where aspiring writers,
 actors, and artists of all varieties can spend the summer learning from each other,
-building connections, and talking with some of the high flyers in each of their
+building connections, and talking with some of the high fliers in each of their
 fields, all while enjoying top-notch hospitality. Except, as is often true, when
 main character Rebekah Coombs is gifted a summer there, she discovers that the
 secretive program has many hidden truths.
@@ -16,7 +16,8 @@ thrust into what could easily have been a film.
 
 Read the first chapter [here]({filename}/sea-songs/00_day1.md).
 
-Returners, get the latest chapter [here](#link2)
+Returners, get the list of published chapters
+[here](/categories.html#sea-songs-ref)
 
 # Characters
 
@@ -26,11 +27,11 @@ the chapters. Here are the characters of *Sea Songs*:
 
 **Rebekah Coombs**
 :   Rebekah is from Reading, Pennsylvania, where the monopoly location inspired
-    6 year-old Rebekah to write her first script. As she grew, her intrest in writing
-    and film grew with her, and she enrolled at Moriavian College to study Creative
+    6 year-old Rebekah to write her first script. As she grew, her interest in writing
+    and film grew with her, and she enrolled at Moravian College to study Creative
     Writing and Film after high school.
 
-    This ordeal starts when she recieves a letter after the end of her sophomore year,
+    This ordeal starts when she receives a letter after the end of her sophomore year,
     inviting her to this summer program for the creative arts.
 
 # Settings
