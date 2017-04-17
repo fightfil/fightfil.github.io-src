@@ -322,7 +322,8 @@ So for each chapter, I will post a playlist of all the music that Carver
 is listening to. It's an important part of her character, and helps me
 understand her personality through her music tastes. I'd try to describe
 those tastes here, but it's not really a thing that I can fully capture
-in just a few sentences.
+in just a few sentences. These also are the primary playlists I listen to
+while writing each chapter.
 
 I'm not even sure what those tastes are, but every so often, I'll come
 across a song that I know she has definitely been listening the shit out

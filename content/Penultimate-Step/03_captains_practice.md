@@ -216,9 +216,9 @@ it."
 circles before taking her starting point again. Two small hops, then she
 crouches again for the start.
 
-She clears the height again, but only after the bar kindly bounces up
-and down. She hit it. At 5'2," she slips over the bar, leaving it 
-quivering. 
+She clears the height again, but only after the bar bounces up and kindly 
+returns to it's spot on the standards. She hit it. At 5'2," she slips
+over the bar, leaving it quivering. 
 
 "Now 5'4". We're starting you guys next height, be ready."
 

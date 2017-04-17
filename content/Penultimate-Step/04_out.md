@@ -96,8 +96,7 @@ the term starts?"
 a lingering pain shooting up my calf. "I forgot to get some at the bookstore
 today and my leg is *killing* me."
 
-"Ooh," replies Jen. "I think I might have a bottle of ibuprofen in my bag.
-I tend to get random headaches, so I carry around a bunch most of the time."
+"Ooh," replies Jen. "I think I might have a bottle of ibuprofen in my bag."
 
 She gets up and skips to her room. Emerging from the doorway after a few 
 moments, she hands me a bottle of the tablets. 
@@ -112,7 +111,7 @@ for just about a week, so we'll see."
 resting for a couple days, then I'll be in tip-top shape, raring to get hurt
 again."
 
-I look at Diane, myself. "He's not *entirely* wrong."
+Diane and I exchange looks. "He's not *entirely* wrong," she says.
 
 "You guys don't even let yourselves acknowledge that getting hurt, well *hurts*.
 It's like you people just try and turn it into no big deal, even when any
@@ -124,9 +123,9 @@ for that.
 
 "You athletes are just masochists, plain and simple."
 
-Diane snickers. "Nah, that's no the side of the dynamic that gets me freaky."
+Diane snickers. "Nah, that's not the side of the dynamic that gets me freaky."
 
-None of us can keep it in. Even quiet Jen is giggling in the corner.
+None of us can keep it in. Even quiet Kyle snorts in the corner.
 
 "And, on that note," she says, "I'm going to bed!"
 
@@ -199,6 +198,33 @@ you."
 
 Like one person, looking bewildered and overwhelmed, hastily shoves his books
 back into his bag before rushing out of the lecture hall, red-faced.
+
+The remainder of the class is much less eventful---Professor Entwistle proved
+to be an excellent lecturer, but nothing out of the ordinary happened---and
+I am almost surprised to see how much time is passed when she announces that
+she is done for the day, and that she expects to see us at Friday's lecture.
+
+Then comes the unenviable ordeal of packing my books back up, getting my 
+crutches free from the chair, and hobbling out of the lecture hall. I have a
+free period of three hours, which I start by heading to lunch.
+
+I put a message in the suite's group chat to say that I'll be at the dining
+hall, but if my memory serves me, most of them have their own class during
+this time. It only takes a minute before I see their apologies flood back,
+filling my notifications with the names of all the classes that conflict
+with a normal eating schedule. "Too bad," I text back. "you're all missing
+out on the best lunch yet." I haven't even made it through the line into
+the dining hall.
+
+I'm probably fifteen or twenty people back from the check-in when Bones slides
+in behind me---cutting off at least 30 people. Nadine, Emma, and Addison join
+in right behind. "Hey E." Bones claps me on the shoulder. "How's it hangin'?"
+
+"The crutches are a pain in the butt, but otherwise, I'm good." After swiping
+in, we deposit our bags at the first table we find and grab some food.
+
+"Honestly," says Emma, once we've all returned to the table. "I was a little
+more worried about the first day of classes than they feel worthy of.
 
 Chapter Playlist
 ----------------
