@@ -28,9 +28,9 @@ status: draft
 ---
 
 "...Then I was selected Senior Speaker for our commencement ceremonies
-and Kara and I ripped my graduation gown apart and turned it into a
+and Kels and I ripped my graduation gown apart and turned it into a
 elegant dress on the way to coming out to the entire school. My dad
-still don't know, though. He wasn't there."
+still doesn't know, though. He wasn't there."
 
 "What about your mom?"
 
@@ -65,7 +65,7 @@ change."
 actually bring the hammer down?"
 
 "I was fucking terrified. But it did work out in the end, so all's well
-that ends well. Then I gave the speech of my life, coming out as trans
+that ends well, I guess. Then I gave the speech of my life, coming out as trans
 in front of the entire school, and most everyone's parents.
 
 "It was one of the best experiences of my life to recieve that ovation
@@ -107,9 +107,9 @@ As I pop one, she asks, "So how bad is it anyways?"
 which is about typical for a muscle strain. The last one I got kept me sidelined
 for just about a week, so we'll see."
 
-"You athletes..." Theo scowls at me and Diane. "All injuries are just, I'll be
+"You athletes..." Theo scowls at me and Diane. "All injuries are just, 'I'll be
 resting for a couple days, then I'll be in tip-top shape, raring to get hurt
-again."
+again'."
 
 Diane and I exchange looks. "He's not *entirely* wrong," she says.
 
@@ -125,7 +125,7 @@ for that.
 
 Diane snickers. "Nah, that's not the side of the dynamic that gets me freaky."
 
-None of us can keep it in. Even quiet Kyle snorts in the corner.
+None of us can keep it in. Even Kyle snorts in the corner.
 
 "And, on that note," she says, "I'm going to bed!"
 
@@ -196,7 +196,7 @@ minutes.
 be, come to me right after class with your add/drop slip, and I can sign it for
 you."
 
-Like one person, looking bewildered and overwhelmed, hastily shoves his books
+One person, looking bewildered and overwhelmed, hastily shoves his books
 back into his bag before rushing out of the lecture hall, red-faced.
 
 The remainder of the class is much less eventful---Professor Entwistle proved
@@ -218,13 +218,18 @@ the dining hall.
 
 I'm probably fifteen or twenty people back from the check-in when Bones slides
 in behind me---cutting off at least 30 people. Nadine, Emma, and Addison join
-in right behind. "Hey E." Bones claps me on the shoulder. "How's it hangin'?"
+in right behind. "Hey E." He claps me on the shoulder. "How's it hangin'?"
 
 "The crutches are a pain in the butt, but otherwise, I'm good." After swiping
 in, we deposit our bags at the first table we find and grab some food.
 
-"Honestly," says Emma, once we've all returned to the table. "I was a little
-more worried about the first day of classes than they feel worthy of.
+"Honestly," says Emma, once we've all returned to the table. "I feel like I
+was far too worried about the first day of classes. My brother---he graduated
+a couple of years ago---told me horrible stories about how the professors
+like to make sure that you hit the ground running each term."
+
+The upperclassmen exchange glances. The pair of them can barely hold in their
+mirth.
 
 Chapter Playlist
 ----------------

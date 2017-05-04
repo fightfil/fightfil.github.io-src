@@ -59,7 +59,7 @@ stage, and I am merely a player. And as such, I must follow the rules of
 drama.
 
 Everything must build to the climax, and at the height of the drama,
-only then can secrets be truly revealed, can the plot be resolved. The
+only then can secrets be truly revealed, can the plot truly be resolved. The
 past four years have been building to this one moment---this is the
 climax of this chapter of my life.
 
@@ -67,7 +67,7 @@ climax of this chapter of my life.
 
 "I know, Gregory. I'm practically running this, remember?"
 
-He rolls his eyes at me, "Whatever. Just don't piss of the headmaster on
+He rolls his eyes at me, "Whatever. Just don't piss off the headmaster on
 your last day."
 
 "Hey, there's no better way to end your high school career."
@@ -252,7 +252,7 @@ with.
 
 "So we've hidden even those. And for the most part, that is healthy. We
 shouldn't know every little thing about each other---imagine all of the
-embarrassing things that would cause. But sometimes there are things
+embarrassment that would cause. But sometimes there are things
 that eat us from the inside, things that we want to share, but are still
 afraid too. These are the most dangerous.
 
