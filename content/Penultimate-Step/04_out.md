@@ -231,6 +231,22 @@ like to make sure that you hit the ground running each term."
 The upperclassmen exchange glances. The pair of them can barely hold in their
 mirth.
 
+
+---
+
+After giving my plate to the dishwashing staff, I head outside and start down
+the sidewalk to the UTC Building---the biggest academic hall on campus---for
+my Differential Equations class. As with my journey to Materials earlier in
+the day, every person I pass moves out of the path to let me limp by. Unlike
+this morning, however, not everyone who does so moves without comment. Earlier,
+people would would make room for me to pass while continuing their normal
+conversations unaffected---perhaps allowing for a quick pause as they noticed 
+me and shifted out of the path. When I walk by them now, some of the 
+conversation goes quiet---friends turning to speak in hushed tones.
+
+They are careful not to let the sound carry far, leaving the content of their
+whispers to my more than capable imagination.
+
 Chapter Playlist
 ----------------
 
