@@ -229,7 +229,32 @@ a couple of years ago---told me horrible stories about how the professors
 like to make sure that you hit the ground running each term."
 
 The upperclassmen exchange glances. The pair of them can barely hold in their
-mirth.
+mirth. "Mostly, the professors aren't that hardcore to the frosh. Maybe if
+you go off the deep end in the third term, you'll get screwed, but it's mostly
+a story that us juniors and seniors use to scare pups like you."
+
+"'Member when you were convinced that we'd have an exam on the first day,
+Bones?"
+
+"Yeah, during orientation, my RA went on a tirade against my Calc professor,
+saying how horrible she was and that she always tried to weed out her classes
+by giving us a super-hard exam on the first day of class."
+
+"Of course she was lovely---super supportive and a really good lecturer.
+Absolutely the opposite of what Kevin told us."
+
+"That was his name, by the way."
+
+"Yeah," said Emma. "That was pretty easy to guess."
+
+"And how about you, E?" Nadine asks. "Have you encountered any terrifying
+teachers?"
+
+"No. But one kid did end up in my Materials Science class by mistake. When
+the professor encouraged anyone not there for her specific class, they looked
+*so* terrified and embarresed.
+
+
 
 
 ---
@@ -251,7 +276,7 @@ Chapter Playlist
 ----------------
 
 During the first couple of weeks of classes, Ellie's playlist has an almost
-epic feel. Whether or not that had any bearing on her attitude during the
+cinematic feel. Whether or not that had any bearing on her attitude during the
 chapter is for you to decide. Tee-hee.
 
 It was made by her High School friend, Kelsie.
