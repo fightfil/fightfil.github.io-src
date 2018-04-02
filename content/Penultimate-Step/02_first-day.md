@@ -1,5 +1,5 @@
 ---
-title: TPS - Chapter 1 
+title: TPS - Chapter 1 (Part 1)
 subtitle: Freshman Orientation 
 author: fightfil
 date: 9/2/2016
@@ -67,11 +67,11 @@ enjoying our time at the ISTU. *Not like we haven't researched everything to*
 *do with this place while agonizing over which school to go to or anything.*
 Not even the inevitable snickering and whispered conversation can break the
 monotony of Dean after Dean giving endless tips about how to go about studying,
-why torrenting is a **Bad Idea^(c)^**, or how to **Enjoy Yourself at a Party
-Without Drinking(tm)**. Slowly, agonizingly, the presentations
+why torrenting is a **Bad Idea^(C)^**, or how to **Enjoy Yourself at a Party
+Without Drinking^TM^**. Slowly, agonizingly, the presentations
 draw to a close.
 The auditorium doors swing open, our portal into this new world of college life,
-once step away from the **Real World^(r)^**.
+once step away from the **Real World^(R)^**.
 
 As we step out into the sun, heat bearing down on us, our path to freedom is
 blocked by a dozen or so tables, each sporting a letter or two. A girl in a
@@ -96,8 +96,9 @@ parking lot. Falley Hall is pretty close, just on the South Campus.
 
 I set back off towards it. Being move-in day, all the doors are wide open and I
 don't yet need my ID or keys to get in, so I stride right through the door,
-down the hall, and up the staircase. Falley Hall is mildly castle-like, flanked
-by octagonal towers that extend a story above the rest of the building.
+down the hall, and up the staircase. Falley Hall is mildly castle-like, a brick
+building flanked by octagonal towers that extend a story above the rest of
+the dorm.
 
 My tower is on the side closer to the lake, so once I find myself on the second
 floor, I step in. The common area isn't large, just enough for a couch and TV,

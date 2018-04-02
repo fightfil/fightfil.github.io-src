@@ -1,5 +1,5 @@
 ---
-title: TPS - Chapter 3
+title: TPS - Chapter 2 (Part 1)
 subtitle: Out
 author: Fightfil
 date: 3 January 2017
@@ -17,8 +17,15 @@ commentary: |
   For her, getting outed only proved to her that her world hates trans people
   and that she is in danger just by merely existing.</p>
   
-  She does feel safe in her suite with Diane, Jenna, Theo, and Kyle, which
-  makes</p>
+  <p>She does feel safe in her suite with Diane, Jenna, Theo, and Kyle, which
+  provides some comfort. While I left the process of her really choosing
+  to embrace being out in front of her suite-mates off-screen, that isn't
+  always a simple process. For Ellie, the decision was really that since
+  they obviously knew, and they didn't hate her for being trans, she
+  had little to lose by embracing the fact in front of them.</p>
+
+  <p>Of course, this still leaves the entire school that Ellie has to contend
+  with.</p>
 summary: |
   <p>With freshman orientation out of the way, how will Ellie and her
   suite-mates handle her identity? Who else knows, and what will she 
@@ -251,13 +258,26 @@ Absolutely the opposite of what Kevin told us."
 teachers?"
 
 "No. But one kid did end up in my Materials Science class by mistake. When
-the professor encouraged anyone not there for her specific class, they looked
-*so* terrified and embarresed.
+the professor encouraged anyone not there for her specific class to leave,
+they looked *so* terrified and embarrassed.
 
+"My teacher for CS1 was terrible," says Addison. "He spent twenty-five minutes
+going on about how no one was a real programmer anymore. Was saying that IDE's
+have made it so nobody actually knew how to code. Then he goes on to say that
+he's going against the standard curriculum here to force us all to learn C."
 
+Nadine's smile is sympathetic. "Yeah, Professor Reston is just an asshole.
+But he hasn't graded a test or assignment in fifteen years and his graders
+are always really forgiving."
 
+The conversation slowly meanders from classes to practice and other things.
+Eventually, my phone buzzes, reminding me that I have class in about fifteen
+minutes. "Shit," I pronounce. "I almost forgot about my class."
 
----
+Everyone looks down at their phones, surprised by how much time has elapsed.
+"And I have to get down the gym for work, anyways," says Nadine, who has a
+work study staffing the front desk at the Fitness Center. So we all get up
+to leave, grabbing our bags and plates.
 
 After giving my plate to the dishwashing staff, I head outside and start down
 the sidewalk to the UTC Building---the biggest academic hall on campus---for
@@ -270,14 +290,15 @@ me and shifted out of the path. When I walk by them now, some of the
 conversation goes quiet---friends turning to speak in hushed tones.
 
 They are careful not to let the sound carry far, leaving the content of their
-whispers to my more than capable imagination.
+whispers to my more than capable imagination. Which, of course, runs *fucking*
+wild.
 
 Chapter Playlist
 ----------------
 
-During the first couple of weeks of classes, Ellie's playlist has an almost
-cinematic feel. Whether or not that had any bearing on her attitude during the
-chapter is for you to decide. Tee-hee.
+During the chaotic first couple of weeks of classes, Ellie's playlist has 
+an almost cinematic feel. Whether or not that had any bearing on her attitude
+during the chapter is for you to decide. Tee-hee.
 
 It was made by her High School friend, Kelsie.
 

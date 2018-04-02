@@ -1,5 +1,5 @@
 ---
-title: TPS - Chapter 2
+title: TPS - Chapter 1 (Part 2)
 subtitle: Captains' Practice
 author: fightfil
 date: 9/5/2016
